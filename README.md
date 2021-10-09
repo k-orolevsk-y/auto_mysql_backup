@@ -6,6 +6,10 @@ sudo add-apt-repository ppa:abbat/ydcmd
 sudo apt update
 sudo apt install ydcmd
 ```
+И модуль для архивации файлов:
+```
+sudo apt install zip
+```
 ___
 
 После установки, необходимо авторизоваться в модуле, для этого:
